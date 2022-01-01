@@ -40,8 +40,8 @@ My previous work is no longer interesting to me. But it left me no room for furt
 
   ## Languages
 
-  ***
+---
 
-  **Ukrainian** - native  
-   **Russian** - fluent  
-   **English** - A2 (B1 in process)
+**Ukrainian** - native  
+ **Russian** - fluent  
+ **English** - A2 (B1 in process)
