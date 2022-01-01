@@ -21,7 +21,7 @@
 
 My previous work is no longer interesting to me. But it left me no room for further development. That's why I'm here. I need an activity where I can develop and learn something completely new for myself
 
-## Skils
+## Skills
 
 ---
 
